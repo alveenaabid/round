@@ -1,0 +1,34 @@
+[
+  {
+    "brand_name": "microsoft",
+    "year_zero": 98.1,
+    "year_first": 136.63,
+    "year_second": 203.14,
+    "year_third": 269.61,
+    "year_forth": 256.39
+  },
+  {
+    "brand_name": "apple",
+    "year_zero": 45.96,
+    "year_first": 50.79,
+    "year_second": 91.28,
+    "year_third": 136.6,
+    "year_forth": 136.04
+  },
+  {
+    "brand_name": "tesla",
+    "year_zero": 72.01,
+    "year_first": 46.04,
+    "year_second": 216.6,
+    "year_third": 627.8,
+    "year_forth": 681
+  },
+  {
+    "brand_name": "google",
+    "year_zero": 54.95,
+    "year_first": 54.9,
+    "year_second": 70.56,
+    "year_third": 124.85,
+    "year_forth": 108.34
+  }
+]
